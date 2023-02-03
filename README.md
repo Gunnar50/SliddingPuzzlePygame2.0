@@ -1,1 +1,1 @@
-# SlidingPuzzleGame2.0
+# SliddingPuzzlePygame2.0
